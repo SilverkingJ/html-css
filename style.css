@@ -1,0 +1,32 @@
+h1,  h4{
+  color: blue;
+  text-transform: capitalize;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+}
+
+a h3{
+  color: red;
+}
+
+#sports {
+  border: 40px solid blue;
+  padding: 15px;
+  margin: 50px;
+
+}
+
+img {
+  position: relative;
+}
+
+#list{
+    position: absolute;
+}
+
+#best{
+  position: fixed;
+}
